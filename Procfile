@@ -1,1 +1,1 @@
-release:npx cowsay it's a cow
+release: npx cowsay it's a cow
