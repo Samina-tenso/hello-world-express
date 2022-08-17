@@ -1,3 +1,3 @@
 
-release:npx cowsay it is a cow
+release:npx cowsay "it is a cow"
 
